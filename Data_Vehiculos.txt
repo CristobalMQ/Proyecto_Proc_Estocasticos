@@ -1,0 +1,220 @@
+Comuna de Cerrillos
+Foton Camioneta 2022                     ,    $16.915.000
+Toyota Corolla Cross 2023                ,    $24.990.000
+MG ZS 2020                               ,    $9.990.000
+Furgón Hyundai H1 2006                   ,    $4.723.333
+Kia Frontier 2.5 2013                    ,    $11.300.000
+Suzuki Maruti 2005                       ,    $2.050.000
+Hyundai Accent 2014                      ,    $3.375.000
+Chevrolet Groove 2021                    ,    $11.940.000
+Camioneta Nissan Terrano 2011            ,    $7.865.000
+
+Comuna de Cerro Navia
+Citroën C Elysee 2016                    ,    $6.450.000
+Chery Tiggo 2 2022                       ,    $8.900.000
+Chevrolet Sail 2019                      ,    $5.850.000
+Suzuki DZire 2022                        ,    $8.250.000
+Nissan Sentra 2023                       ,    $10.500.000
+MG 3 2018                                ,    $6.250.000
+Camioneta Dodge Journey 2020             ,    $14.750.000
+Donfeng AX4 2020                         ,    $8.350.000
+Suzuki DZire 2022                        ,    $8.250.000
+
+Comuna de Conchalí
+Hyundai Santa Fe 2009                    ,    $7.850.000
+Nissan V16 2007                          ,    $3.250.000
+Suzuki Baleno GLX 2019                   ,    $7.750.000
+Renault Symbol 1.6 2018                  ,    $7.400.000
+Chevrolet Sail 2016                      ,    $4.750.000
+Chevrolet N300 Max Van 2013              ,    $6.350.000
+Hyundai Accent 1997                      ,    $1.650.000
+Hyundai Grand I10 2017                   ,    $5.250.000
+MG ZS 2021                               ,    $8.850.000
+Mini Cooper 2017                         ,    $13.750.000
+
+Comuna de El Bosque
+Kia Soul 2014                            ,    $7.750.000
+Kia Morning 2011                         ,    $3.650.000
+Camión Volkswagen Delivery 9170 2022     ,    $18.750.000
+Chevrolet Spark GT 2012                  ,    $4.600.000
+Furgón Chevrolet N300 Max Van 2014       ,    $6.250.000
+Foton Midi Truck 2022                    ,    $12.750.000
+Peugeot 2008 2018                        ,    $8.750.000
+Kia Frontier 2.5 2006                    ,    $7.250.000
+BMW 116i 2015                            ,    $13.750.000
+
+Comuna de Estación Central
+Kia Rio 4 2017                           ,    $7.750.000
+Chevrolet Spark 2020                     ,    $7.250.000
+Renault Kwid 2021                        ,    $6.750.000
+Chevrolet Aveo 2007                      ,    $3.250.000
+Mitsubishi Lancer 1998                   ,    $2.650.000
+Chevrolet Sail 2019                      ,    $5.750.000
+Nissan Versa 2018                        ,    $9.250.000
+Camioneta Foton 2019                     ,    $12.500.000
+Chevrolet Corsa 2010                     ,    $3.350.000
+
+Comuna de Independencia
+Citroën Berlingo 2021                    ,    $9.250.000
+Chevrolet Spark Lite 2012                ,    $4.650.000
+Hyundai Accent 2017                      ,    $8.250.000
+Camioneta Mitsubishi L200 2015           ,    $11.500.000
+Jac JS4 Luxury 2022                      ,    $10.500.000
+Honda CBR300R 2021                       ,    $3.750.000
+Chevrolet Corsa 2006                     ,    $2.650.000
+Chevrolet Aveo 2012                      ,    $3.750.000
+Camioneta Chevrolet Luv 1989             ,    $2.650.000
+
+Comuna de La Cisterna
+Nissan XTrail 2020                       ,    $15.500.000
+Minibús Hyundai H1 2010                  ,    $6.250.000
+Hyundai Tucson 2008                      ,    $7.750.000
+Chevrolet Spark 2011                     ,    $3.750.000
+Camioneta Mitsubishi L200 Dakar 2020     ,    $18.750.000
+Audi Q5 TFSI Quattro 2014                ,    $22.500.000
+Nissan Tiida 2010                        ,    $4.750.000
+
+Comuna de Lo Prado
+Nissan Versa 2019                        ,    $8.250.000
+Kia Soul 2015                            ,    $7.250.000
+Brilliance FRV 2014                      ,    $4.250.000
+Great Wall 2021                          ,    $6.250.000
+MG ZX 1.5 2021                           ,    $8.750.000
+Kia Rio 5 2015                           ,    $6.750.000
+Peugeot 207 2010                         ,    $3.750.000
+Kia Carens 2006                          ,    $3.250.000
+Minibús Hyundai H1                       ,    $6.250.000
+
+Comuna de Macul
+Suzuki Baleno 2020                       ,    $8.750.000
+Kia Morning 2023                         ,    $8.250.000
+Kia Soluto 2022                          ,    $7.250.000
+Furgón Peugeot Partner HDI 2023          ,    $12.500.000
+Renault Koleos 2015                      ,    $10.500.000
+Furgón Peugeot Partner 2019              ,    $8.750.000
+Mitsubishi Xpander Cross                 ,    $12.500.000
+Kia Frontier 2022                        ,    $15.500.000
+Nissan Kicks 2021                        ,    $9.750.000
+Kia Sportage Pro 2007                    ,    $7.250.000
+
+Comuna de Maipú
+Peugeot Boxer 2002                       ,    $5.250.000
+Chevrolet Sail 1.5 2021                  ,    $9.250.000
+Jac S3 2021                              ,    $8.250.000
+Camioneta Chevrolet Luv 1994             ,    $2.650.000
+Toyota Yaris GLI 2008                    ,    $5.250.000
+Toyota Rav 4 2022                        ,    $22.500.000
+Chevrolet Groove 2021                    ,    $12.500.000
+Hyundai Accent 2018                      ,    $8.250.000
+Camioneta Foton Midi Truck 2017          ,    $10.500.000
+Camioneta Foton 2018                     ,    $11.500.000
+
+Comuna de Ñuñoa
+Camioneta SsangYong Actyon Sport 2010    ,    $7.750.000
+Mitsubishi L200 Dakar 2018               ,    $18.500.000
+Peugeot Partner 2014                     ,    $7.250.000
+Chevrolet Spark 2021                     ,    $7.750.000
+Furgón RAM V700 2018                     ,    $9.250.000
+Dodge Durango SXT 2015                   ,    $21.500.000
+Camioneta Mitsubishi L200 2017           ,    $15.500.000
+BMW 335i 2013                            ,    $25.500.000
+Camioneta SsangYong Actyon Sport 2012    ,    $8.750.000
+
+Comuna de Pedro Aguirre Cerda
+Hyundai Accent 2014                      ,    $6.750.000
+Nissan Sentra 2020                       ,    $9.750.000
+Chevrolet Sail 2018                      ,    $6.750.000
+Kia Morning 2016                         ,    $4.250.000
+Hyundai Tucson 2017                      ,    $12.500.000
+Toyota Yaris 2019                        ,    $8.750.000
+Chevrolet Captiva 2017                   ,    $10.500.000
+Peugeot 208 2020                         ,    $7.750.000
+Mazda 3 2017                             ,    $9.750.000
+
+Comuna de Providencia
+Hyundai Tucson 2015                      ,    $12.000.000
+Toyota Corolla 2018                      ,    $9.750.000
+Chevrolet Cruze 2017                     ,    $8.750.000
+Kia Sportage 2020                        ,    $15.500.000
+Ford Fiesta 2014                         ,    $6.250.000
+Mazda CX-5 2019                          ,    $14.000.000
+Nissan Qashqai 2017                      ,    $12.500.000
+Peugeot 3008 2018                        ,    $15.000.000
+Volkswagen Golf 2016                     ,    $11.500.000
+
+Comuna de Quinta Normal
+Hyundai Elantra 2016                     ,    $9.500.000
+Chevrolet Spark GT 2019                  ,    $6.250.000
+Suzuki Swift 2018                        ,    $7.250.000
+Toyota Hilux 2020                        ,    $18.500.000
+Mazda 2 2017                             ,    $7.750.000
+Ford Ranger 2019                         ,    $16.000.000
+Kia Rio 2015                             ,    $5.750.000
+Nissan Versa 2016                        ,    $7.250.000
+Volkswagen Amarok 2018                   ,    $17.000.000
+
+Comuna de Recoleta
+Toyota Hilux 2017                        ,    $16.500.000
+Hyundai Accent 2018                      ,    $8.250.000
+Kia Sorento 2015                         ,    $12.500.000
+Chevrolet Tracker 2019                   ,    $9.250.000
+Nissan March 2016                        ,    $5.750.000
+Renault Duster 2020                      ,    $9.750.000
+Mazda 3 2018                             ,    $10.750.000
+Ford EcoSport 2016                       ,    $7.250.000
+Jeep Renegade 2019                       ,    $12.000.000
+
+Comuna de San Joaquín
+Toyota Yaris 2017                        ,    $8.250.000
+Hyundai Elantra 2018                     ,    $9.750.000
+Chevrolet Captiva 2016                   ,    $9.250.000
+Nissan X-Trail 2019                      ,    $15.500.000
+Mazda 6 2015                             ,    $10.750.000
+Ford Focus 2017                          ,    $8.750.000
+Kia Sportage 2018                        ,    $13.500.000
+Renault Koleos 2020                      ,    $15.500.000
+Suzuki Vitara 2016                       ,    $10.500.000
+
+Comuna de San Miguel
+Toyota Prius 2018                        ,    $14.000.000
+Hyundai Sonata 2016                      ,    $11.500.000
+Chevrolet Orlando 2015                   ,    $8.250.000
+Nissan Murano 2017                       ,    $17.000.000
+Mazda CX-3 2019                          ,    $14.500.000
+Ford Explorer 2018                       ,    $22.500.000
+Kia Cerato 2020                          ,    $12.500.000
+Renault Captur 2017                      ,    $9.750.000
+Suzuki S-Cross 2016                      ,    $8.750.000
+
+Comuna de San Ramón
+Toyota RAV4 2016                         ,    $15.500.000
+Hyundai Tucson 2018                      ,    $13.500.000
+Chevrolet Cruze 2015                     ,    $7.250.000
+Nissan Sentra 2017                       ,    $8.750.000
+Mazda 3 2016                             ,    $9.250.000
+Ford Escape 2018                         ,    $16.500.000
+Kia Soul 2019                            ,    $11.250.000
+Renault Sandero 2017                     ,    $6.250.000
+Suzuki Grand Vitara 2016                 ,    $9.750.000
+
+Comuna de Santiago
+Hyundai Santa Fe 2018                    ,    $18.500.000
+Fiat Fiorino 2016                        ,    $6.250.000
+SsangYong Actyon Sport 2014              ,    $8.750.000
+Toyota Yaris XLI 2011                    ,    $5.250.000
+Toyota Yaris Sport 2008                  ,    $4.250.000
+Citroën Berlingo 2018                    ,    $8.250.000
+Opel Mokka 2024                          ,    $21.500.000
+Hyundai Accent 2007                      ,    $3.750.000
+Jeep Wrangler Sport 4X4 2019             ,    $31.000.000
+
+Comuna de Vitacura
+Hyundai Palisade 2020                    ,    $36.000.000
+BMW X5 2019                              ,    $46.000.000
+Audi A6 2018                             ,    $31.000.000
+Mercedes-Benz GLE 2020                   ,    $61.000.000
+Volvo XC90 2019                          ,    $51.000.000
+Lexus RX 2017                            ,    $41.000.000
+Land Rover Discovery 2020                ,    $66.000.000
+Jaguar F-Pace 2018                       ,    $49.000.000
+Porsche Cayenne 2019                     ,    $71.000.000
